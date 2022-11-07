@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on becoming junior java backend developer.
 - 🤔 I’m looking for help with clean code and better solutions.  
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=Qreitos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Qreitos&theme=dark&hide_border=false)
 
