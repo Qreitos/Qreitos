@@ -20,8 +20,6 @@ Technologies I learned:
 - CI/CD - Github Actions, Heroku
 - Git, Github, Postman  
 
-  
-📫 How to reach me:
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pietro.spisak/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pietrospisak/) 
