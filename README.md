@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Qreitos&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on becoming junior java backend developer.
+- 🔭 I’m currently working on becoming java sensei.
 - 🤔 I’m looking for help with clean code and better solutions.  
 <br>
 
