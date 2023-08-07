@@ -1,5 +1,5 @@
 ### Hi there. My name is Peter Špišák 👋
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Gradle](https://img.shields.io/badge/Maven-02303A.svg?style=for-the-badge&logo=Maven&logoColor=blue)
 
 [![](https://visitcount.itsvg.in/api?id=Qreitos&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -11,12 +11,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Qreitos&theme=dark&hide_border=false)
 
 Technologies I learned:  
-- Spring Boot
+- Spring Boot, Quarkus
 - REST API, Retrofit
-- Spring Security, OAuth, JWT
+- Spring Security, OAuth, JWT, Keycloak
 - JDBC, JPA, Hibernate, Flyway, SQL
 - JUnit 5, Mockito, H2
-- Thymeleaf, HTML5, CSS3
+- Angular, Thymeleaf, HTML5, CSS3
 - CI/CD - Github Actions, Heroku
 - Git, Github, Postman  
 
